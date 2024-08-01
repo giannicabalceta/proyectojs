@@ -1,0 +1,26 @@
+
+.bdy{
+    text-align: center;
+    background-color: darkcyan;
+    color:white;
+}
+
+.line{
+    display: flex;
+    gap: 50px;
+    margin-left: 40%;
+    line-height: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
